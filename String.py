@@ -1,8 +1,12 @@
+# x=("I live in pakistan") 
 # x=("I live in pakistan")
+# print(x[5::8])
+
 # print(x[6:9])
 # # slicing
-# print(x[0::3])
-# print(x[-1::-2])
+# x=("I live in pakistan")
+# print(x[0::2]) 
+
 # Iteration: 
 
 # x=("My name is zebi")
@@ -25,7 +29,7 @@
 # print(y)
 # x="i live in pakistan"
 # y=x.capitalize()
+# # print(y)
+# x="i live in pakistan"
+# y=x.title()
 # print(y)
-x="i live in pakistan"
-y=x.title()
-print(y)

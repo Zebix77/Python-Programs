@@ -1,5 +1,5 @@
 # x="I live in pakistan" #find
-# print(x.find('in'))
+# print(x.find('i'))
 # print(x.index('p')) #index
 
 # x="pakistan"
@@ -28,5 +28,4 @@
 
 #^== ----10----    MIDDLE
  #WITH ALL THESE SYMBOLS YOU CAN MANAGE YOUR STRING IN ANY ORDER YOU WANT 
-
 
