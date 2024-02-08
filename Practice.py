@@ -271,6 +271,6 @@
 #         print("Number found", index)
 #     index = index + 1
 
-strings = input("enter the strings:")
-strings.split()
-print(strings)
+# strings = input("enter the strings:")
+# strings.split()
+# print(strings)
