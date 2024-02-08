@@ -27,3 +27,8 @@
 #     for item in x:
 #         print(item,end=" ")
 
+# def avg_cal(a,b,c):
+#     return(a+b+c)//3
+# average=avg_cal(98,97,95)
+# print(average)
+ 

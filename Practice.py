@@ -274,3 +274,21 @@
 # strings = input("enter the strings:")
 # strings.split()
 # print(strings)
+
+
+# def avg(a,b,c):
+#     return(a+b+c)//3
+# res = avg(100,70,50)
+# print(res)
+
+
+#BODY MASS INDEX:
+# john = int(67/1.82**2)
+# bob = int(80/1.82**2)
+# alice = int(50/1.82**2)
+# print(john,bob,alice)
+
+
+x = 42.201290728
+decimal = x - int(x)
+print(decimal)
