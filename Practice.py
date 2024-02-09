@@ -567,7 +567,8 @@ print(decimal)
 #         print("Number found", index)
 #     index = index + 1
 
-strings = input("enter the strings:")
-strings.split()
-print(strings)
+# strings = input("enter the strings:")
+# strings.split()
+# print(strings)
 >>>>>>> 238bd47bee8e77a67bb4ac57a39a651a619f0d61
+
