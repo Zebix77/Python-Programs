@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # x=90
 # y=80
 # print(x%y)
@@ -28,3 +29,9 @@ print(list_iterate_char)
 
 # list_iterate_int = int(x[0][0]), int(x[1][0])
 # multiply = list_iterate_int[0] * 2, list_iterate_int[1] * 2
+=======
+x=90
+y=80
+print(x%y)
+print(x/y)
+>>>>>>> 4beace56d0d6e01cf0369f0f79ff9adbdd38976a
