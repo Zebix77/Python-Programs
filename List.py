@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # l=[1,2,3,4[5,6,7,8,9]]
 # print(type(l)) # = List
 # print(l[5]) # = 6
@@ -44,7 +43,6 @@
 
 # x,y,z=12,15,89 #MULTIPLE ASSIGN VALUES
 # print(z,x)
-=======
 # l=[1,2,3,4[5,6,7,8,9]]
 # print(type(l)) # = List
 # print(l[5]) # = 6
@@ -90,4 +88,3 @@
 
 # x,y,z=12,15,89 #MULTIPLE ASSIGN VALUES
 # print(z,x)
->>>>>>> 4beace56d0d6e01cf0369f0f79ff9adbdd38976a

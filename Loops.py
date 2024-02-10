@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # for loop
 # Increment
 # for x in range(3,30,3):
@@ -78,7 +77,6 @@ n = int(input("Enter the number:"))
 fact = 1
 for i in range(1,n+1):
     fact *= i 
-=======
 # for loop
 # Increment
 # for x in range(3,30,3):
@@ -158,5 +156,4 @@ n = int(input("Enter the number:"))
 fact = 1
 for i in range(1,n+1):
     fact *= i 
->>>>>>> 4beace56d0d6e01cf0369f0f79ff9adbdd38976a
     print("Factorial:", fact)

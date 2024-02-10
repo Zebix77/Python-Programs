@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Write a script that initializes 2 variables n1 and n2 with the values 8 and 9 (accordingly).
 
 # After that initialize another variable n3 that will hold whether n1 is bigger than n2.
@@ -290,11 +290,10 @@
 # print(john,bob,alice)
 
 
-x = 42.201290728
-decimal = x - int(x)
-print(decimal)
-=======
-<<<<<<< HEAD
+# x = 42.201290728
+# decimal = x - int(x)
+# print(decimal)
+# =======
 # Write a script that initializes 2 variables n1 and n2 with the values 8 and 9 (accordingly).
 
 # After that initialize another variable n3 that will hold whether n1 is bigger than n2.
@@ -571,9 +570,8 @@ print(decimal)
 # strings = input("enter the strings:")
 # strings.split()
 # print(strings)
->>>>>>> 238bd47bee8e77a67bb4ac57a39a651a619f0d61
 
-=======
+
 # Write a script that initializes 2 variables n1 and n2 with the values 8 and 9 (accordingly).
 
 # After that initialize another variable n3 that will hold whether n1 is bigger than n2.
@@ -850,5 +848,3 @@ print(decimal)
 strings = input("enter the strings:")
 strings.split()
 print(strings)
->>>>>>> 238bd47bee8e77a67bb4ac57a39a651a619f0d61
->>>>>>> 4beace56d0d6e01cf0369f0f79ff9adbdd38976a
