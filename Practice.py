@@ -845,6 +845,9 @@
 #         print("Number found", index)
 #     index = index + 1
 
-strings = input("enter the strings:")
-strings.split()
-print(strings)
+# strings = input("enter the strings:")
+# strings.split()
+# print(strings)
+
+lines = ["My candle burns at both ends;\n", "It will not last the night;\n", "But ah, my foes, and oh, my friends —\n", "It gives a lovely light."]
+print(lines)
