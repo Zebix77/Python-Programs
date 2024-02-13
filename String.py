@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # x=("I live in pakistan") 
 # x=("I live in pakistan")
 # print(x[5::8])
@@ -33,7 +32,8 @@
 # # print(y)
 # x="i live in pakistan"
 # y=x.title()
-=======
+
+
 # x=("I live in pakistan") 
 # x=("I live in pakistan")
 # print(x[5::8])
@@ -68,5 +68,4 @@
 # # print(y)
 # x="i live in pakistan"
 # y=x.title()
->>>>>>> 4beace56d0d6e01cf0369f0f79ff9adbdd38976a
 # print(y)

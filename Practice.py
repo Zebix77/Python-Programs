@@ -849,5 +849,14 @@
 # strings.split()
 # print(strings)
 
-lines = ["My candle burns at both ends;\n", "It will not last the night;\n", "But ah, my foes, and oh, my friends —\n", "It gives a lovely light."]
-print(lines)
+class car():
+    name = "Mercedes"
+    model = "S-Class"
+    variant = "S680"
+    color = "Matte Black"
+car1 = car
+print(car1.variant)
+
+
+car2 = car
+print(car1.variant)
