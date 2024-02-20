@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # x="I live in pakistan" #find
 # print(x.find('i'))
 # print(x.index('p')) #index
@@ -30,7 +29,7 @@
 #^== ----10----    MIDDLE
  #WITH ALL THESE SYMBOLS YOU CAN MANAGE YOUR STRING IN ANY ORDER YOU WANT 
 
-=======
+
 # x="I live in pakistan" #find
 # print(x.find('i'))
 # print(x.index('p')) #index
@@ -62,4 +61,3 @@
 #^== ----10----    MIDDLE
  #WITH ALL THESE SYMBOLS YOU CAN MANAGE YOUR STRING IN ANY ORDER YOU WANT 
 
->>>>>>> 4beace56d0d6e01cf0369f0f79ff9adbdd38976a

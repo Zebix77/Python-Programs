@@ -1,12 +1,12 @@
 
 # Write a script that initializes 2 variables n1 and n2 with the values 8 and 9 (accordingly).
 
-# After that initialize another variable n3 that will hold whether n1 is bigger than n2.
+# # After that initialize another variable n3 that will hold whether n1 is bigger than n2.
 # SOLUTION:
 # n1=8
 # n2=9
-# n3=n1!=n2
-# print(n3) = True
+# n3=n1<n2
+# print(n3)
 
 
 # b=12
@@ -36,7 +36,6 @@
 # VALUE SWAPPING:
 # a=20
 # b=90
-# print("Before swapping: a=", a, "b=",b)
 # a,b=b,a
 # print("After swapping:a=",a, "b=",b)
 #  Before swapping: a= 20 b= 90
@@ -44,8 +43,8 @@
 
 # TYPE CASTING 
 # a=float("5")
-# b=10
-# print(a+b) = 15.0
+# b = 10
+# print(a+b)  = 15.0
 
 # a = int(input("Enter the number1"))
 # b = int(input("Enter the number 2"))
@@ -65,8 +64,8 @@
 
 # ENDSWITH FUNCTION:
 # str1="I am studying python on Apna College"
-# print(str1.endswith("ege"))
-# ENDSWITH CHECKS IF STRING ENDS WITH GIVEN STRING
+# print(str1.endswith("College"))
+# # ENDSWITH CHECKS IF STRING ENDS WITH GIVEN STRING
  
 # REPLACE FUNTION IS USE TO REPLACE STRING WITH ANOTHER STRING
 # str="I am studying python on Apna College"
@@ -77,7 +76,7 @@
 # print(len(x))
 
 # str="I have 25$ in my bank account"
-# print("RESULT OF YOUR FIND FUNCTION IS:", str.count("$"))
+# print("RESULT IS:", str.count("a"))
 
 
 # x = int(input("ENTER THE NUMBER:"))
@@ -88,16 +87,16 @@
 # a = int(input("ENTER FIRST NUMBER:"))
 # b = int(input("ENTER SECOND NUMBER:"))
 # c = int(input("ENTER THIRD NUMBER:"))
-# if a>=b and a>=c:
+# if a>b and a>c:
 #     print("A IS THE GREATEST")
-# elif b>=a and b>=c:
+# elif b>a and b>c:
 #     print("B IS THE GREATEST")
-# elif c>=a and c>=b:
+# elif c>a and c>b:
 #     print("C IS THE GREATEST")
 
 
 # x = int(input("Enter the number:"))
-# if x %7==0:
+# if x%2!=0:
 #     print(True)
 # else: print(False)
 
@@ -136,7 +135,7 @@
 # else: print("NOT PALINDROME")
 
 # grade = ("A", "B", "C", "D", "E" "F", "A", "A",)
-# print(grade.count("B"))
+# print(grade.count("A"))
 
 # list = ["K", "B", "G", "Z", "L", "F",]
 # list.sort()
@@ -152,9 +151,8 @@
 
 
 # SET DATA TYPE:
-# SETS = {1,2,3,3,4,7,7,7, "Hello world", "srring"}
+# SETS = {1,2,3,3,4,7,7,7, "Hello world", "string"}
 # print(SETS)
-# print(type(SETS))
 # SET IGNORE DOUBLE VALUES AND IS & UNORDERED. SET IS MUTABLE BUT IT'S ELEMENTS ARE IMMUTABLE (CANNOT BE CHANGED)
 #set() is the way to write an empty set
 
@@ -165,19 +163,18 @@
 # print(x)
  
 
-# dict = {"Car" : "Bugatti Chiron ",
+# dict = {"Car" : "Bugatti Chiron",
 #         "Bike": "Kawasaki Ninja H2R",
 #         "Fav SUV" : "Range Rover",
-#         "Aimal" : "Cat"
-#         }
+#         "Animal" : "Cat"}
 # print(type(dict))
 # print(dict)
 
-# classes  = {"Python", "Java", "C++", "C++", "Javascript", "C++", "Pyhton", "Java"}
+# classes  = {"Python", "Java", "C++", "C++", "Javascript", "C++", "Python", "Java"}
 # print(len(classes))
 
 
-# a = int(input("pyshic marks:"))
+# a = int(input("pyshics marks:"))
 # b = int(input("math marks:"))
 # c = int(input("english marks:"))
 # dict = {}
@@ -188,15 +185,15 @@
 
 
 # WHILE LOOP:
-# i = 2
-# while(i<=11):  
+# i = 0 #STARING VALUE
+# while(i<=11):  #CONDITION
 #     print(i)
-#     i = i + 2 
+#     i = i + 1
 
 # a = int(input("Enter the number:"))
-# while(True):
-#   if a%2 == 0:
-#     print(a)
+# if a%2 == 0:
+#     print("EVEN NUMBER")
+# else: ("ODD NUMBER")
 
 # def GreetHello(): 
 #     print("Hello")
@@ -849,14 +846,14 @@
 # strings.split()
 # print(strings)
 
-class car():
-    name = "Mercedes"
-    model = "S-Class"
-    variant = "S680"
-    color = "Matte Black"
-car1 = car
-print(car1.variant)
+# class car():
+#     name = "Mercedes"
+#     model = "S-Class"
+#     variant = "S680"
+#     color = "Matte Black"
+# car1 = car
+# print(car1.variant)
 
 
-car2 = car
-print(car1.variant)
+# car2 = car
+# print(car1.variant)
