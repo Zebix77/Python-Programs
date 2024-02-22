@@ -25,10 +25,10 @@
 #     print(p[q])
   
 #REVERSE ITERATION IN LIST:
-# l=[15,30,45,60,75]
-# t=len(l)
-# for x in range(t-1,-1,-1):
-#     print(l[x])
+l=[15,30,45,60,75]
+t=len(l)
+for x in range(t-1,-1,-1):
+    print(l[x])
 
 
 #ANOTHER METHOD: 

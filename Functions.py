@@ -68,4 +68,3 @@
 # average=avg_cal(98,97,95)
 # print(average)
  
->>>>>>> 4beace56d0d6e01cf0369f0f79ff9adbdd38976a
