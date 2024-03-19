@@ -11,7 +11,7 @@
 
 # b=12
 # a=2
-# c=(12*2)
+# c=(a*b)
 # print(c)
 
 # a=20
@@ -42,9 +42,9 @@
 # After swapping:a= 90 b= 20
 
 # TYPE CASTING 
-# a=float("5")
-# b = 10
-# print(a+b)  = 15.0
+# a=int("5")
+# b = 5
+# print(a+b)  
 
 # a = int(input("Enter the number1"))
 # b = int(input("Enter the number 2"))
