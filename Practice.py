@@ -68,9 +68,9 @@
 # # ENDSWITH CHECKS IF STRING ENDS WITH GIVEN STRING
  
 # REPLACE FUNTION IS USE TO REPLACE STRING WITH ANOTHER STRING
-# str="I am studying python on Apna College"
-# print(str.replace("o","a"))
-# OUTPUT="I am studying pythan an Apna Callege"
+# example = "I live in pakistan"
+# print(example.replace("p","B" ))
+
 
 # x = input("Enter your first name:")
 # print(len(x))
@@ -84,15 +84,15 @@
 #     print("EVEN NUMBER")
 # else: print("ODD NUMBER")
 
-# a = int(input("ENTER FIRST NUMBER:"))
-# b = int(input("ENTER SECOND NUMBER:"))
-# c = int(input("ENTER THIRD NUMBER:"))
-# if a>b and a>c:
-#     print("A IS THE GREATEST")
-# elif b>a and b>c:
-#     print("B IS THE GREATEST")
-# elif c>a and c>b:
-#     print("C IS THE GREATEST")
+a = int(input("ENTER FIRST NUMBER:"))
+b = int(input("ENTER SECOND NUMBER:"))
+c = int(input("ENTER THIRD NUMBER:"))
+if a>b and a>c:
+    print("A IS THE GREATEST")
+elif b>a and b>c:
+    print("B IS THE GREATEST")
+elif c>a and c>b:
+    print("C IS THE GREATEST")
 
 
 # x = int(input("Enter the number:"))
